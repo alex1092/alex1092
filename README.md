@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about web3 and all things tech.<br>lets talk about eth
+Passionate about web3 and all things tech.
 
 
 # 💻 Tech Stack:
